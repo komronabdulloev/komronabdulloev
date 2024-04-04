@@ -1,4 +1,4 @@
-### Hi there 👋 I am Komron, a software tester.
+### Hi there 👋 I am Komron, a Software Tester.
 - Check out my [blog](https://t.me/abdulloyevkomron) and my [resume](https://docs.google.com/document/d/1VVE4RHv2zDAF_NQzb143xr_hzPHp6CzdSATVxE3ECRg/edit?usp=sharing).
 - I’m currently working at [Agrobank](https://my.agrobank.uz/).
 
